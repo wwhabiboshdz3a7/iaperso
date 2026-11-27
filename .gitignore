@@ -1,0 +1,9 @@
+data/processed/
+sorties/
+outils/
+__pycache__/
+.venv/
+venv/
+.env
+*.gguf
+.DS_Store
