@@ -1,5 +1,7 @@
 # IAPerso — ton IA de code perso
 
+> **Nouveau : modèle 100 % fait de zéro (2,4 milliards de paramètres) → voir [`zero/README.md`](zero/README.md).** Ce qui suit est la méthode rapide (affiner un modèle existant).
+
 On ne part pas de zéro (entraîner un modèle de zéro coûte des millions) : on prend un **modèle open source déjà très bon en code** (Qwen2.5-Coder, licence Apache 2.0) et on le **spécialise** avec la méthode LoRA, sur :
 
 1. des jeux de données de code open source (≈ 60 000 exemples question → réponse) ;

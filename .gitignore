@@ -7,3 +7,4 @@ venv/
 .env
 *.gguf
 .DS_Store
+data/zero*/

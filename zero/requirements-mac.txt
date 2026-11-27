@@ -1,0 +1,10 @@
+mlx>=0.29
+numpy
+tokenizers>=0.21
+datasets>=3.0
+safetensors
+huggingface_hub>=0.34
+# pour verifier.py (facultatif)
+jax
+transformers
+torch
